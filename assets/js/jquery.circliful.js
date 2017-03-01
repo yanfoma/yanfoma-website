@@ -53,15 +53,7 @@
 					percent = settings.percent / 100;
 				}
 
-<<<<<<< HEAD
 				fgcolor = '#3cc3c1';
-=======
-				if ($.cookie("skin") != undefined) {
-					fgcolor = $.cookie("skin")
-				} else {
-					fgcolor = settings.foregroundColor;
-				}
->>>>>>> 126385ae3ffa71e1f16c96518477c6bb83fcb9fb
 
 				if ($(this).data('bgcolor') != undefined) {
 					bgcolor = $(this).data('bgcolor');

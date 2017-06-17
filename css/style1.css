@@ -1,0 +1,33 @@
+.link,
+a:hover,
+a:focus,
+html body .text-primary,
+.list-inline .icon:hover,
+.btn-primary:focus,
+.btn-default:focus,
+.contact-data .icon,
+.countdown-period {
+  color: #02CBD7;
+}
+
+.icon-primary,
+figure:after,
+.btn-primary:hover,
+.btn-default,
+#style-switcher .toggle-list li.active, #style-switcher .color-theme li.active,
+#style-switcher .toggle-switcher {
+  background: #02CBD7;
+}
+
+.btn-primary:active:focus,
+.btn-default:hover,
+.btn-default:active:focus,
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-default,
+.btn-default:focus,
+.form-control:hover,
+.form-control:focus {
+  border-color: #02CBD7;
+}
